@@ -1,0 +1,53 @@
+CodeStrike
+
+Codestrike is a Student run community at Atharva College of Engineering.
+They host contests, trainings and events for programmers around the world.
+
+AIM:
+To create a global community that fosters learning and encourages friendly competitions.
+Based in India, they take extra steps to encourage the programming culture here.
+They are co-working with colleges to promote programming and meetups.
+
+INITIATIVE:
+CodeStrike is a CodeChef Campus Chapter of Atharva College of Engineering.
+This initiative was taken on 27th January 2014, to spread the coding string.
+
+CODECHEF:
+A not-for-profit educational initiative by Directi, an Indian software company.
+It is a global programming community that fosters learning and friendly competition, built on top of the world’s largest competitive programming platform.
+
+List Of Domains in which the students are able to develope:
+Competetive Coding
+Version Control(GitHub)
+Web Development:
+	Front-end
+	Back-end
+Application Development:
+	Android
+	iOS
+Graphic Designing
+Computer Networking
+Red Hat Hacking
+Black-Hat Hacking
+Game Development
+Image Progessing
+Agumented Reality
+Machine Learning
+Data Science
+
+Language compatibility:
+	Java
+	Python
+	C#
+	C
+	C++
+	R
+	HTML(Techonology)
+	CSS(Techonology)
+	JavaScript:
+		Angular
+		React
+		Node
+	PHP
+	Ruby
+	Ruby on Rails
